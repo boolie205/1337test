@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+ "target": "es6",
+ "esModuleInterop": true,
+ "allowSyntheticDefaultImports": true,
+  "module": "CommonJS",
+   "outDir": "./dist", 
+   "rootDir": "./",
+   "strict": false,
+    "noImplicitAny": false,
+  },
+  "include": [
+    "node_modules/@types/puppeteer/index.d.ts"
+  ]
+}
