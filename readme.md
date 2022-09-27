@@ -4,4 +4,4 @@ To run locally, simply open your terminal in the project directory and enter 'np
 
 ## **Features!**
 
-I added, Get all coworkers, Filter, Pagination,
+I added, Get all coworkers, Filter, Pagination and auth
